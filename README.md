@@ -1,2 +1,2 @@
-# micro-radiant
+# micro radiant
 next generation trading framework
